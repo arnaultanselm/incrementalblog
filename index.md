@@ -1,7 +1,10 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
-![Image of fast.ai logo](images/logo.png)
+## Introduction to Incremental Gardening
 
-## This is a title
+Hello and welcome! I am Arnault and I love gardening. Except when I have to push myself or the lawnmower. That’s why I invented Incremental Gardening, a new way of gardening that lets you ~~grow plants in water with automated systems and crossbreed them to create new varieties~~ take things slowly, at your own pace, following your *natural* curiosities with enjoyment and ease.
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+To be honest, this is not a retrospective, extensively researched and and heavily practiced method, that has helped me to achieve amazing results. I just made that term up. 
+
+### Tongue in cheek, sort of
+
+
